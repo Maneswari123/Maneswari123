@@ -63,7 +63,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashok-Data-Explorer&show_icons=true&locale=en" alt="8421-ram" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Maneswari123&show_icons=true&locale=en" alt="8421-ram" /></p>
 
 
 
