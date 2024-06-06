@@ -21,7 +21,8 @@
 • 💬 Contact me at <a href="https://www.linkedin.com/in/medam-naga-maneswari-7ba1b4280"><b>I am Medam Naga Maneswari</b></a><br/>
 
 • 📫 Reach me at manimedam9@gmail.com<br/>
-  skills : python,statistics,Power Bi,Machine Learning,Excel,EDA
+
+  Skills : Python,Statistics,Power Bi,Machine Learning,Excel,EDA
 
 </span>
 <br/>
