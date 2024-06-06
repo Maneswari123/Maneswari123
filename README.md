@@ -10,7 +10,7 @@
 ## About Me :
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
-
+I am Naga Maneswari, a passionate Data Analyst with a knack for transforming complex data into clear insights and strategies. With 6 months of hands-on experience, I excel in statistical modeling and data manipulation. My goal is to drive business growth through informed decision-making and to be an asset to a forward-thinking team by providing actionable data-driven recommendations.
 
 • 🔭 I’m currently Looking for   <b>Data Analyst,</b> <br/>
 
@@ -37,20 +37,17 @@
 
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg" alt="python" width="50" height="50"/>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242677/Github/R.jpg" alt="R" width="60" height="50"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1675415692/GitHub/MYSQL_amf6vt.png" alt="mysql" width="50" height="50"/> </a>
 <a href="https://www.microsoft.com/en-in/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Power%20BI.png" alt="Power BI" width="50" height="50"/> </a> 
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Tableau.jpg" alt="Tableau" width="60" height="60"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Meachine%20Learning.png" alt="Meachine learning" width="60" height="60"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Probability%20Statistics.jpg" alt="Probability Statistics" width="70" height="60"/> </a> 
-<a href=https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242679/Github/jupyter.png" alt="JUpyter notebook" width="50" height="50"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242678/Github/Probability%20Statistics.jpg" alt="Probability Statistics" width="70" height="60"/> </a>  
 </p>
 
 
 <h3 align="left">Libraries:</h3>
 
 <p align="left"> 
-
+<a href=https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242679/Github/jupyter.png" alt="JUpyter notebook" width="50" height="50"/> </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242679/Github/Numpy.png" alt="Numpy" width="70" height="60"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242679/Github/Pandas.png" alt="Pandas" width="110" height="60"/> </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1708242679/Github/Matplotlib.png" alt="Matplotlib" width="100" height="60"/> </a>
