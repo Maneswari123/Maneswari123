@@ -22,7 +22,7 @@
 
 • 📫 Reach me at manimedam9@gmail.com<br/>
 
-  Skills : Python,Statistics,Power Bi,Machine Learning,Excel,EDA
+  Soft Skills : Problem Solving, Communication Skills, Teamwork and Collaboration, Adaptability
 
 </span>
 <br/>
